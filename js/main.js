@@ -21,7 +21,7 @@
 
 Проверить, чтобы все работало без ошибок в консоли */
 
-// 'use strict';
+"use strict";
 
 const numberOfFilms = prompt('Сколько фильмов вы уже посмотрели?'),
       qestionOfFilmsOne = prompt('Один из последних просмотренных фильмов?'),
